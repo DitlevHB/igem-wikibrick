@@ -54,7 +54,7 @@
         "gulp-tap": "^1.0.1",
         "gulp-uglify": "^3.0.0",
         "gulp-wrap": "^0.14.0",
-        "igemwiki-api": "git+https://github.com/Virginia-iGEM/igemwiki-api.git",
+        "igemwiki-api": "git+https://github.com/DitlevHB/igemwiki-api.git",
         "jshint": "^2.9.5",
         "lazypipe": "^1.0.1",
         "lodash": "^4.17.10",
